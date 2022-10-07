@@ -1,10 +1,13 @@
 Olá, Prazer 👋
-Me chamo Eric James, sou desenvolvedor Front end, e também um ilustrador.
+Me chamo Eric James, sou desenvolvedor Front end, e também um ilustrador, sempre gostei da parte visual e design, e por isso estou aqui como Front end, depois de uma jornada de anos de estudo, já estudava programação sozinho e a um ano entrei para a kenzie academy, agora formado, sigo em busca dos desafios e oportunidades, tudo parece incrível, e eu estou com enormes expectativas quanto ao meu futuro de desenvolvedor, vai ser incrível <3
+Minhas próximas metas são me especializar no front, e afinar o meu typescript, também dei início aos meus estudos de Back end e UI/UX design.
+
 
 - 🔭 Trabalhando no meu portifólio pessoal <3
 - 🌱 Avançando nos estudos de Typescript e UI/UX design
 - 😄 Pronomes: ele/dele
 - ⚡ Informação inútil: eu tenho 10 animais, 7 gatos e 3 cachorros, gosto muito de jogos comepetitivos, mas não sou bom em nenhum :3
+- 
 
 <div align="center">
   <a href="https://github.com/Ericjcf">

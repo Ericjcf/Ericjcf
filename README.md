@@ -5,8 +5,8 @@ Minhas próximas metas são me especializar no front, e afinar o meu typescript,
 
 O que estou fazendo:
 
-- 💻☕ Trabalhando no meu portifólio pessoal 🕓☕🎉🎉🎨👓🔒🔓🗝️📱🪪📒💵📝📅📈⌚👦🏽👨🏽‍💻👾👾👻🤓🥹👁️
-- 📖✏️ Avançando nos estudos de Typescript e UI/UX design
+- 💻☕ Trabalhando no meu portifólio pessoal
+- 📖✏️ Avançando nos estudos de Typescript, Back-end, e UI/UX design
 - 😄 Pronomes: ele/dele
 - 🌱 Informação aleatórias: Tenho 10 animais, amo video games, skate, estar com amigos.
 

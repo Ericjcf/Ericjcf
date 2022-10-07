@@ -1,5 +1,4 @@
-👾👾 Sobre mim 👾👾
-
+<h1>👾👾 Sobre mim 👾👾</h1>
 Olá, Prazer!! me chamo Eric James, sou desenvolvedor Front end, e também um ilustrador, sempre gostei muito da parte visual e design e sempre quis saber como criar sites legais e bonitos, a um ano entrei para a kenzie academy, e agora formado, vou em busca dos desafios e oportunidades, tenho enormes expectativas quanto ao meu futuro de desenvolvedor, vai ser incrível <3.
 Minhas próximas metas são me especializar no front, e afinar o meu typescript, também dei início aos meus estudos de Back end e UI/UX design.
 

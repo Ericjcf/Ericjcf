@@ -1,13 +1,13 @@
 <h1>👾👾 Sobre mim 👾👾</h1>
-Olá, Prazer!! me chamo Eric James, sou desenvolvedor Front end, e também um ilustrador, sempre gostei muito da parte visual e design e sempre quis saber como criar sites legais e bonitos, a um ano entrei para a kenzie academy, e agora formado, vou em busca dos desafios e oportunidades, tenho enormes expectativas quanto ao meu futuro de desenvolvedor, vai ser incrível <3.
-Minhas próximas metas são me especializar no front, e afinar o meu typescript, também dei início aos meus estudos de Back end e UI/UX design.
+Olá, Prazer!! me chamo Eric James, sou desenvolvedor Front end, e também um ilustrador, sempre gostei muito da parte visual e design e sempre quis saber como criar sites legais e bonitos, a um ano entrei para a kenzie academy, e agora formado, estou em busca dos desafios e oportunidades, tenho enormes expectativas quanto ao meu futuro de desenvolvedor, vai ser incrível <3.
+Minhas próximas metas são me especializar no front, afinar o meu typescript, também dei início aos meus estudos de Back end e UI/UX design.
 
 O que estou fazendo:
 
 - 💻☕ Trabalhando no meu portifólio pessoal
 - 📖✏️ Avançando nos estudos de Typescript, Back-end, e UI/UX design
 - 😄 Pronomes: ele/dele
-- 🌱 Informação aleatórias: Tenho 10 animais, amo video games, skate, estar com amigos.
+- 🌱 Informação aleatórias: Tenho 8 gatos 2 dogs, alguns hobbys: video games, skate, estar com amigos.
 
 
 <div style="display: inline_block"><br>

@@ -7,8 +7,7 @@ O que estou fazendo:
 - 💻☕ Trabalhando no meu portifólio pessoal
 - 📖✏️ Avançando nos estudos de Typescript, Back-end, e UI/UX design
 - 😄 Pronomes: ele/dele
-- 🌱 Informação aleatórias: Tenho 8 gatos 2 dogs, alguns hobbys: video games, skate, estar com amigos.
-
+- 🌱 Informação aleatórias: tenho muitos pets, gamer e skatista.
 
 <div style="display: inline_block"><br>
  <img align="center" alt="Eric-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">

@@ -4,10 +4,9 @@ Minhas próximas metas são me especializar no front, afinar o meu typescript, t
 
 O que estou fazendo:
 
-- 💻☕ Trabalhando no meu portifólio pessoal
+- 💻☕ Já tenho alguns projetos prontos de consumo de API e CRUD completo, no momento estou trabalhando no meu portifólio pessoal para agrupar todos esses exemplos.
 - 📖✏️ Avançando nos estudos de Typescript, Back-end, e UI/UX design
-- ☺️ Pronomes: ele/dele
-- 🌱🛹🐾👾 Informação aleatórias: tenho muitos pets, gamer e skatista.
+
 
 <div style="display: inline_block"><br>
  <img align="center" alt="Eric-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">

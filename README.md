@@ -1,11 +1,11 @@
 <h1>👾👾 Sobre mim 👾👾</h1>
-Olá, Prazer!! me chamo Eric James, sou desenvolvedor Front end, e também um ilustrador, formado na Kenzie Academy Brasil
-Minhas próximas metas são me especializar no front, afinar o meu typescript, também dei início aos meus estudos de Back end e UI/UX design.
+Olá, Prazer!! me chamo Eric James, sou desenvolvedor Front end, e também um ilustrador.
+Minhas próximas metas são afinar o meu typescript, também dei início aos meus estudos de Back end e UI/UX design.
 
 O que estou fazendo:
 
 - 💻☕ Já tenho alguns projetos prontos de consumo de API e CRUD completo, no momento estou trabalhando no meu portifólio pessoal para agrupar todos esses exemplos.
-- 📖✏️ Avançando nos estudos de Typescript, Back-end, e UI/UX design
+- 📖✏️ Avançando nos estudos de Typescript, Back-end.
 
 
 <div style="display: inline_block"><br>
